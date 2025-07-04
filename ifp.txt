@@ -1,0 +1,34 @@
+01. Saída:
+Arquivo: Jogo Descubra a senha .py
+Linha 26: print ('Senha Invalida')
+Explicação: Usado para mostrar mensagen'Senha Invalida' na tela para o usuário.
+
+02. **Variáveis:**
+Arquivo: Jogo Descubra a senha .py
+Linha 16: senha = 0
+Explicação: transforma a Variável senha em um inteiro por receber 0
+
+03. Entrada de dados:
+Arquivo: Jogo Descubra a senha .py
+Linha 22: senha = int(input('ADIVINHE A SENHA: '))
+Explicação: 'senha' vai receber um valor inteiro digitado pelo usuário
+
+04. Estrutura condição
+Arquivo: Jogo Descubra a senha .py
+Linha  24: if (senha != 2009):
+Explicação: testa se senha for diferente de 2009 para dar inicio a outros códigos
+     
+05. Estrutura de Repetição
+Arquivo: Jogo Descubra a senha .py
+Linha  20: while (senha != 2009):
+Explicação: Faz com que uma sequencia de códigos se repita até senha for diferente de 2009
+
+06. Operadores
+Arquivo: Jogo Descubra a senha .py
+Linha 20: while (senha != 2009):
+Explicação: ' != '(diferente) é um operador lógico porque ele verifica se senha é diferente de 2009
+
+07. Sub-Rotina
+Arquivo: Jogo Descubra a senha .py
+Linha 13: limpaTela()
+Explicação: limpaTela() é uma Sub-Rotina que faz a função de pular 50 linhas
